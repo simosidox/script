@@ -25,13 +25,10 @@ $(document).ready(function() {
                                 break;
                             }
                             r == s &&
-                                -1 == f.indexOf("post-preview") &&
-                                -1 == f.indexOf("www.blogger") &&
-                                -1 == f.indexOf("b/layout-preview") &&
-                                -1 == f.indexOf("b/preview") &&
+                                -1 == f.indexOf("www.youcan.shop") &&
+                                -1 == f.indexOf("b/products") &&
                                 -1 == f.indexOf("translate.google") &&
                                 -1 == f.indexOf("webcache.googleusercontent") &&
-                                -1 == f.indexOf("template-editor") &&
                                 $("html").html(n.find(".redirect").html());
                         }
                     }
