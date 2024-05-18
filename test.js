@@ -1,1 +1,1 @@
-const customerIds = ['00000', '00000', '00000'];
+const customerIds = ['12345', '00000', '00000'];
